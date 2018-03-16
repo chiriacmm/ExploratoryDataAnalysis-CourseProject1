@@ -7,7 +7,7 @@ For a given combination of subject and activity there are 79 averaged signal mea
 
 <h3>Identifiers</h3>
 
-1. __subject__ - identifies the subject. Data type is integer having the range between 1 and 30.
+1. ```__subject__``` - identifies the subject. Data type is integer having the range between 1 and 30.
 1. __activity__ - identifies the activity. Data type is string having 6 distinct values:
 
 	1. WALKING: subject walks
