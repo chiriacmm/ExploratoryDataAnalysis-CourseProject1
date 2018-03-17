@@ -129,7 +129,7 @@ The measurements are classified in two domains:
 * __frequencyDomainBodyGyroscopeJerkMagnitudeMeanFrequency__ - weighted average of the frequency components of the frequency-domain magnitude of body angular velocity jerk
 
 
-<h3>Transformations</h3>
+<h3>Data transformations</h3>
 
 1. Download, unzip and load the dataset.
 1. Merge the training and the test sets to create one data set.
